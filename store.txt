@@ -1,0 +1,5 @@
+apple 100 9
+orange 130 58
+raspberry 200 17
+banana 150 10
+pear 1000 12
